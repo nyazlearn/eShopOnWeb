@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: e167832a-2d1b-427a-99d2-ea6e2c983f45
   WEBAPP-NAME: az400-webapp-lab05ny
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
